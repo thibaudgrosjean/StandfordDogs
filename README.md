@@ -22,4 +22,4 @@ We develop a MVP with *Streamlit* for users to esaily classify theirs images to 
 
 ## Data
 
-The *training data* used in this notebook is the [*Standford Dogs Dataset*](http://vision.stanford.edu/aditya86/ImageNetDogs/).
+The *training data* used in this notebook is the [*Stanford Dogs Dataset*](http://vision.stanford.edu/aditya86/ImageNetDogs/).
