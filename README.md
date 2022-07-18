@@ -1,4 +1,4 @@
-# StandfordDogs
+# StanfordDogs
 
 ## Presentation
 
